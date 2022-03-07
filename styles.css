@@ -1,0 +1,53 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #DFF6FF;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Ubuntu', sans-serif;
+  text-shadow: 5px 0 #232931;
+  font-size: 7rem;
+  color: #084594;
+}
+
+p {
+  font-size: 2.5rem;
+  color: #D82148;
+  font-family: 'Courgette', cursive;
+  margin-top: 10px;
+}
+
+img {
+  width: 70%;
+  margin-top: 10%;
+}
+
+footer {
+  color: #141E27;
+  font-size: 1.3rem;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  margin-top: 7%;
+}
+
+.buttonn {
+  text-align: center;
+  margin-top: 3%;
+}
+
+.btn {
+  border-radius: 10%;
+  font-family: 'Indie Flower', cursive;
+  color: #D82148;
+}
