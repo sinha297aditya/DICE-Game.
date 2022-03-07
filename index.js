@@ -29,7 +29,7 @@ function showDice() {
 
   // FOR 2ND DICE IMAGE
 
-  var randomNumber2 = Math.floor(Math.random() * 6) + 1;
+  
   var randomImage2 = "dice" + randomNumber2 + ".png";
   var randomImage2src = "images/" + randomImage2;
   var image2 = document.querySelectorAll("img")[1];
